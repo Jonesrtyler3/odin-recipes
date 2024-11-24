@@ -1,15 +1,36 @@
 *{
-    background-color: rgb(13, 19, 17);
+    background-color: rgb(107, 233, 191);
 }
 h1{
     color: red;
 }
-.honeysrititle{
-    background-color: #fff;
+.hsri.title{
+    background-color: #e0d53e;
     text-align: center;
 }
-.cfr{
+.cfr.title{
     background-color: forestgreen;
     color: #ff8800;
     text-align: center;
+}
+.odinrecipes.title{
+    font-size: 40px;
+}
+.title{
+text-align: center;
+font-size: 24px;
+color: rgb(131, 0, 207);
+}
+.body{
+background-color: rgb(131,0,207);
+color: aqua;
+font-size: 20px;
+}
+.ingredients{
+background-color: green;
+color: red;
+}
+.steps{
+background-color: cornflowerblue;
+color: peru
 }
