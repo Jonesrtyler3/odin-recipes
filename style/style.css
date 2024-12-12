@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(209, 252, 237);
+    margin: 0;
+}
+.hsri.title{
+    background-color: #e0d53e;
+    text-align: center;
+}
+.cfr.title{
+    background-color: forestgreen;
+    color: #ff8800;
+    text-align: center;
+}
+.odinrecipes.title{
+    font-size: 80px;
+}
+.title{
+text-align: center;
+font-size: 24px;
+color: rgb(18, 1, 27);
+}
+.body{
+background-color: rgb(131,0,207);
+color: aqua;
+font-size: 20px;
+}
+.ingredients{
+background-color: green;
+color: red;
+}
+.steps{
+background-color: cornflowerblue;
+color: peru
+}
+.list{
+display: block;
+margin: 100px 600px;
+color: blue;
+list-style-type: circle;
+}
+a:link{
+    color:hotpink;
+    font-size: 50px;
+}
+a:visited{
+
+    color:rgb(165, 40, 214)
+}
+a:hover{
+    font-size: 52px;
+    color:purple;
+}
+a:active{
+    font-size: 48px;
+    color: green;
+}
