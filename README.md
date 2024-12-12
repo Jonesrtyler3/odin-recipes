@@ -1,1 +1,3 @@
-# odin-recipes-1
+Odin-Recipes
+
+This is my first crack at a website. I'm following the Odin Project as I go along and implementing their teachings as I go. I don't know what else to add here and I'm sure I'll edit and make changes later on as I go along. I also know that this is not my first README.md that I have and have created so maybe I'll add the original back in and copy/paste this into the original README. Not sure how to do that yet but eventually this will be done if it's possible. However, I'm more focused on my css than fixing my README at this time so I'm just adding text here because I just checked it and noticed it was blank and wanted to fix.
